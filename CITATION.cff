@@ -1,0 +1,67 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Compare Time Series and their intrinsic mode functions (emdCompare)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - family-names: Varona
+    given-names: Humberto L.
+    email: humberto.varona@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0001-7405-4827'
+  - given-names: Fabrice
+    family-names: Hernandez
+    email: fabrice.hernandez@ird.fr
+    affiliation: >-
+      Institut de Recherche pour le Développement (IRD), LEGOS,
+      Univ Toulouse, CNRS, CNES, Toulouse, France.
+    orcid: 'https://orcid.org/0000-0003-2152-0657'
+  - given-names: Marcus
+    family-names: Silva
+    email: marcus.oceano@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0001-9749-6644'
+  - given-names: Carlos
+    family-names: Noriega
+    email: carlos.delnor@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0002-3590-6377'
+  - given-names: Julia
+    family-names: Araujo
+    email: juliamdearaujo@gmail.com
+    affiliation: >-
+      Brazilian Research network on Global Climate Change (Rede CLIMA),
+      São José dos Campos, SP, Brazil
+    orcid: 'https://orcid.org/0000-0001-8353-6254'
+  - given-names: Moacyr
+    family-names: Araujo
+    email: moa.ufpe@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0001-8462-6446'
+repository-code: 'https://doi.org/10.5281/zenodo.7500149'
+abstract: >-
+  Compare Time Series and their intrinsic mode functions using statistical tests such as U-test, t-test and F-test.
+keywords:
+  - Time Series
+  - Intrinsic Mode Functions
+  - U-test
+  - t-test
+  - F-test
+  - Oceanography
+  - Meteorology
+license: MIT
+version: '1.0'
+date-released: '2023-01-02'
