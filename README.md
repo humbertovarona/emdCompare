@@ -8,7 +8,7 @@ December, 2nd 2022
 
 #DOI
 
-https://doi.org/10.5281/zenodo.7500149
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7500149.svg)](https://doi.org/10.5281/zenodo.7500149)
 
 # Description
 
